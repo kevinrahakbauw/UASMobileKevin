@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "905115896425",
+    "firebase_url": "https://uaskevin2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uaskevin2",
+    "storage_bucket": "uaskevin2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905115896425:android:e27c39e7dcb8eadfac70f8",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905115896425-lqipe10dt85jolop5nonkc55flpjicpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uas",
+            "certificate_hash": "ad0fcb36c214347c4abfe96caa65cb98762f31fe"
+          }
+        },
+        {
+          "client_id": "905115896425-namclq15torpug19nmh5pn3sf63k8l39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMhcBGhb-gLTo4GPmQ-azu4DhtSHtmMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905115896425-namclq15torpug19nmh5pn3sf63k8l39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
